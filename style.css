@@ -1,0 +1,109 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: medium;
+	font-weight: 400;
+}
+
+.MegaDiv {
+/*	display: inline; */
+}
+
+.IntroDiv {
+	display: inline-block;
+	margin: 10;
+	padding: 10;
+
+}
+
+.IntroDiv {
+	margin: 0;
+	padding: 0;
+}
+
+.BodySectionDiv {
+	margin: 0;
+	padding: 0;
+}
+
+.MainBodyDiv {
+	margin: 0;
+	padding: 0;
+}
+
+.IntroDiv p, .IntroDiv h2, .IntroDiv h3, .IntroDiv h4 {
+	margin: 10;
+	padding: 10;
+}
+
+.MainBodyDiv p, .MainBodyDiv h2, .MainBodyDiv h3, .MainBodyDiv h4 {
+	margin: 10;
+	padding: 10;
+}
+
+.NavBarDiv {
+	margin: 0;
+	padding: 0;
+	font-size: medium;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 60;
+	opacity: 1;
+	background-color: #FFFFFF;
+	border-bottom: 1px solid black;
+}
+
+.NavBarDivSpacer {
+	height: 80;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+
+
+
+.NavBar {
+	list-style: none;
+	position: relative;
+	left: 40;
+}
+
+th {
+	text-align: left;
+	font-weight: 400;
+}
+
+
+.NavBar li {
+	display: inline;
+	margin: 27;
+	padding: 27;
+	right-margin: 10;
+	padding-right: 10;
+}
+
+.TextBodyCol {
+	width: 1000;
+	left: 100;
+}
+
+.SpacerCol {
+	width: 100;
+}
+
+.TitleHeader {
+	text-align: center;
+}
+
+.Portrait {
+	width: 500;
+	height: 500;
+	text-align: center;
+}
+
+.TextBodyCol hr {
+	width: 960;
+}
