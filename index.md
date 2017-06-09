@@ -4,7 +4,7 @@
 
 I am a recent NC State computer science graduate and aspiring software developer with intestests in a variety of software topics.
 
-I am currently job hunting, so please feel free to contact me if you are looking for a software developer.
+I am currently looking for a job, so please feel free to contact me if you are looking for a software developer.
 
 ## My Background
 
