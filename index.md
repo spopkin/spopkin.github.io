@@ -4,6 +4,8 @@
 
 I am a recent NC State computer science graduate and aspiring software developer with intestests in a variety of software topics.
 
+I am currently looking for a job, so please feel free to contact me if you are looking for a software developer.
+
 ## My Background
 
 I recently graduated from NC State university's computer science program (cum laude).  As a recent NC State computer science graduate, I have been exposed to a number of technologies including object-oriented programming, relational database management systems, and Linux.  Out of all of the technologies that I have been exposed to, object-oriented development in Java on Linux is my strongest combination, though I also enjoy using Python, SQL, and C.
@@ -13,7 +15,6 @@ In addition to my education, I have had three internships.  Two were in software
 ## My Projects
 
 I have worked on a number of projects, including a few that I have done in my spare time.  All of these can be found on my [projects.html](projects page).
-
 
 
 
