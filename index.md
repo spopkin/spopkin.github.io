@@ -14,7 +14,7 @@ In addition to my education, I have had three internships.  Two were in software
 
 ## My Projects
 
-I have worked on a number of projects, including a few that I have done in my spare time.  All of these can be found on my [projects.html](projects page).
+I have worked on a number of projects, including a few that I have done in my spare time.  All of these can be found on my [projects page](projects.html).
 
 
 
