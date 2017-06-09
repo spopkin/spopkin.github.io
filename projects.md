@@ -6,13 +6,17 @@ My projects can largely be divided into three categories.  These are work-relate
 
 ## Personal Projects
 
-### PDF Rulefinder
+### [PDF Rulefinder](pdf-rulefinder.html)
 
 ### [ASM Roller and JavaScript Dice Roller](dice-rollers.html)
 
 ### This Website
 
-While this website is a simple set of pages written in Markdown and hosted on Github Pages, it is arguably an example of a writing project and is on my Github, so I would argue that it counts.
+While this website is a simple set of pages written in Markdown and hosted on GitHub Pages, it is arguably an example of a writing project and is on my GitHub, so I would argue that it counts.
+
+### Betaversity Buildathon 2015 semifinalist
+
+Implemented a simple egg timer on an unfamiliar microcontroller with unfamiliar tools, starting within the last 12 hours of a two-week project.  Unfortunately, this project pre-dates my personal GitHub account and I have lost the source code.  That said, I do still have the microcontroller and have been considering several projects that require one.
 
 
 ## Internship Projects
