@@ -2,10 +2,11 @@
 
 [Back to My Projects Page](projects.html)
 
-## What they are made of
+## What Technologies Were Used?
 
 ASM Roller
 - x86 assembly
+- Linux system calls
 
 dice-roller.js
 - Node.js
