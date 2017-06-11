@@ -136,3 +136,10 @@ body {
 	margin: 0px;
 }
 
+.InLineLink, .InlineBoldWords {
+	padding-left: 0px;
+}
+
+.Summary {
+	color: #0000FF;
+}
