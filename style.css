@@ -136,10 +136,21 @@ body {
 	margin: 0px;
 }
 
-.InLineLink, .InlineBoldWords {
+.InLineLink, .InlineBoldWords, .InlineDel {
 	padding-left: 0px;
 }
 
 .Summary {
 	color: #0000FF;
+}
+
+#ExternalLinksSideFrame {
+	margin: 0px;
+	padding: 0px;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	border: 0px;
+	position: relative;
+	background-color: #FFFFFF;
 }
