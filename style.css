@@ -16,6 +16,50 @@ body {
 	/*background-color: #DFDFFF;*/
 }
 
+p, li {
+	color: #202020;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #000077;
+}
+
+#PortraitImage {
+	width: 60%;
+	position: relative;
+	left: 10%;
+}
+
+#ExternalLinksSideFrame {
+	margin: 0px;
+	padding: 0px;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	border: 0px;
+	position: relative;
+	background-color: #FFFFFF;
+}
+
+#ExtLinksFrame, #NavLinksFrame {
+	margin: 0px;
+	padding: 0px;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 30px;
+	border: 0px;
+	border-bottom: 1px solid black;
+	position: fixed;
+	background-color: #FFFFFF;
+	z-index: 10;
+}
+
 .ExternalLinks {
 	border-bottom: 1px solid black;
 	position: absolute;
@@ -50,7 +94,7 @@ body {
 }
 
 .HeadContainer {
-	width: 39%;
+	width: 34%;
 	position: fixed;
 	left: 5%;
 	height: 85%;
@@ -92,20 +136,6 @@ body {
 	border: 0px;
 }
 
-#ExtLinksFrame, #NavLinksFrame {
-	margin: 0px;
-	padding: 0px;
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	height: 30px;
-	border: 0px;
-	border-bottom: 1px solid black;
-	position: fixed;
-	background-color: #FFFFFF;
-	z-index: 10;
-}
-
 .ExtLinksDiv {
 	margin: 0px;
 	padding: 0px;
@@ -142,19 +172,8 @@ body {
 	color: #0000FF;
 }
 
-#ExternalLinksSideFrame {
-	margin: 0px;
-	padding: 0px;
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	border: 0px;
-	position: relative;
-	background-color: #FFFFFF;
-}
-
-#PortraitImage {
-	width: 60%;
-	position: relative;
-	left: 10%;
+.HeadContainerContentWrap {
+	overflow-y: auto;
+	top: 10%;
+	position: relative;	
 }
