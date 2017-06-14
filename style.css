@@ -108,6 +108,7 @@ a:hover {
 
 .HeadContainer *, .DocumentContainer * {
 	padding-left: 10px;
+	z-index: 9;
 }
 
 .NavTable {
@@ -176,4 +177,48 @@ a:hover {
 	overflow-y: auto;
 	top: 10%;
 	position: relative;	
+}
+
+.SideExpansion {
+	position: relative;
+	display: inline-block;
+}
+
+.ExpansionContainer {
+	display: none;
+	position: absolute;
+	min-width: 500px;
+	top: 0px;
+	padding: 0px;
+	z-index: 12;
+}
+
+.ExpansionContainer ul {
+	padding: 0;
+	margin: 0;
+	clear: left;
+	float: none;
+}
+
+
+.SideExpansion:hover .ExpansionContainer, .SideExpansion:hover .HiddenColon {
+	display: inline;
+}
+
+
+.ExpansionStart {
+	padding-left: 10px;
+	color: #0000FF;
+	float: left;
+}
+
+.HiddenColon {
+	display: none;
+	padding: 0;
+	float: left;
+	margin: 0;
+}
+
+.ExpansionStart:hover {
+	color: #000077;
 }
