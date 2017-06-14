@@ -154,3 +154,7 @@ body {
 	position: relative;
 	background-color: #FFFFFF;
 }
+
+img {
+	width: 85%;
+}
