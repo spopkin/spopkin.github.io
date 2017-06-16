@@ -1,26 +1,35 @@
 /* General settings.  By default, we are assuming that devices are smartphones */
+body {
+	font-family: helvetica, arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 .DocumentContainer {
 	max-width: 480px;
+	position: relative;
+	top: 50px;
 }
 
 .HeadContainer {
 	display: block;
 	overflow-y: auto;
+	position: relative;
+	top: 50px;
 }
+
 
 .AboutOuterContainer {
 	position: relative;
-	top: 40px;
 }
 
-.AboutHeader {
-	padding: 0px;
-	margin: 0px;
-	position: relative;
-	top: 6%;
-}
-
-.NavDiv {
+.NavDiv, .NavFrame {
 	height: 30px;
 	padding: 0px;
 	margin: 0px;
@@ -28,16 +37,17 @@
 	position: relative;
 	left: 0px;
 	top: 0px;
+	border: 0px;
 	border-bottom: 1px solid black;	
 }
 
-.NavDiv ul {
+.NavList {
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-.NavDiv ul li {
+.NavList li {
 	float: left;
 	padding: 0px;
 	margin: 0px;
@@ -46,21 +56,22 @@
 
 .Divider, .DropDown {
 	display: none;
+	padding-right: 1em;
 }
 
 /* On systems with wide screens (traditional PCs, change these.) */
-@media screen and (min-width: 720px) {
-	.AboutOuterContainer {
-		position: default;
-		top: default;
-	}
-
-	.IndexOuterContainer {
+@media screen and (min-width: 640px) {
+	.AboutOuterContainer, .ProjectDescriptionOuterContainer {
 		position: relative;
 		left: -20%;
 	}
 
-	.HeadContainer {
+	.IndexOuterContainer, .ContactOuterContainer, .ProjectsOuterContainer {
+		position: relative;
+		left: -20%;
+	}
+
+	/*.HeadContainer {
 		position: fixed;
 		height: 80%;
 		top: 10%;
@@ -69,6 +80,17 @@
 		border-right: 1px solid black;
 		margin: 0px;
 		padding: 0px;
+	}*/
+
+	.HeadContainer {
+		position: relative;
+		width: 480px;
+		left: 45%;
+		top: 60px;
+		z-index: 5;
+		margin: 0px;
+		padding: 0px;
+		
 	}
 
 	.DocumentContainer {
@@ -76,12 +98,12 @@
 		padding: 0px;
 		position: relative;
 		left: 45%;
-		top: 30px;
+		top: 60px;
 		max-width: 480px;
 		z-index: 5;
 	}
 
-	.NavDiv {
+	.NavDiv, .NavFrame {
 		position: relative;
 		left: 45%;
 		width: 480px;
