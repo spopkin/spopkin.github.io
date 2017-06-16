@@ -1,6 +1,8 @@
 /* General settings.  By default, we are assuming that devices are smartphones */
 body {
 	font-family: helvetica, arial, sans-serif;
+	background-color: #FFFFFF;
+	color: #000000;
 }
 
 a {
@@ -54,14 +56,40 @@ a:hover {
 	padding-right: 1em;
 }
 
-.Divider, .DropDown {
+.Divider, .DropDownText, .DropDownDiv {
 	display: none;
 	padding-right: 1em;
 }
 
-/* On systems with wide screens (traditional PCs, change these.) */
+.DropDownDiv {
+	width: 100%;
+}
+
+.HiddenColon {
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+	left: -1.15em;
+	display: none;
+}
+
+.ExpansionContainer {
+	display: none;
+	position: absolute;
+	background-color: #F9F9F9;
+	right: 0;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);	
+	z-index: 10;
+}
+
+.ExpansionContainer ul {
+	list-style: none;
+}
+
+/* On systems with wide screens (regular PCs), change these.*/
 @media screen and (min-width: 640px) {
-	.AboutOuterContainer, .ProjectDescriptionOuterContainer {
+	.AboutOuterContainer, .ProjectDescriptionOuterContainer, .NamedOuterContainer {
 		position: relative;
 		left: -20%;
 	}
@@ -109,8 +137,17 @@ a:hover {
 		width: 480px;
 	}
 
-	.Divider, .DropDown {
+	.Divider, .DropDownText, .DropDownDiv {
 		display: inline;
+		position: relative;
+	}
+
+	.DropDownDiv:hover .HiddenColon {
+		display: inline;
+	}
+
+	.DropDownDiv:hover .ExpansionContainer {
+		display: block;
 	}
 
 }
