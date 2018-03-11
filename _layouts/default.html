@@ -16,7 +16,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"> <h1>{{ page.title | site.title | default: site.github.repository_name }}</h1> </a>
+	{% if page.set_title %}
+          <a href="{{ site.github.url }}"> <h1>{{ page.set_title_to | default: site.github.repository_name }}</h1> </a>
+	{% else %}
+          <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+	{% endif %}
 
 	{% if page.show_portrait %}
 	  <img src="{{ site.portrait_path }}" alt="portrait.jpg">
