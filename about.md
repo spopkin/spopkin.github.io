@@ -5,6 +5,8 @@ set_title_to: "Steven Popkin's Tech Site | About Me"
 description: "Recent Graduate | Aspiring Software Engineer"
 show_portrait: true
 portrait_path: "images/portrait-reduced.jpg"
+page_nav_desc: "About Me"
+
 ---
 <h2>About Me</h2>
 <p>I am a recent NC State computer science graduate with a broad variety of technical interests and topics to which I have been exposed.  Currently, object-oriented development using Java is what I am best at, though I also enjoy using Python, SQL, and other technologies.</p>
