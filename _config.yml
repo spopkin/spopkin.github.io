@@ -1,14 +1,9 @@
 theme: jekyll-theme-minimal
 description: Steven Popkin's Tech Site
-image:
-  source: images/portraits-reduced.jpg
-  output: generated
-  presets:
-    users:
-      attr:
-        class: user-portrait
-        itemprop: image
-      width: 300
-    half:
-      width: 400
-      height: 400
+navbar-links:
+  About Me: "aboutme"
+  Home: "index"
+  Projects: "projects"
+  Contact Information: "contact"
+
+avatar: "images/portrait-reduced.jpg"
