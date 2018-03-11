@@ -1,5 +1,7 @@
 ---
 title:  "About Me"
+set_title: true
+set_title_to: "About Me"
 description: "Recent Graduate | Aspiring Software Engineer"
 ---
 <h2>About Me</h2>
