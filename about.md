@@ -1,7 +1,7 @@
 ---
 title:  "About Me"
-set_title: true
-set_title_to: "{{ site.title }} | About Me"
+set_title: false
+set_title_to: "Steven Popkin's Tech Site | About Me"
 description: "Recent Graduate | Aspiring Software Engineer"
 show_portrait: true
 portrait_path: "images/portrait-reduced.jpg"
