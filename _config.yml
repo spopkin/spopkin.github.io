@@ -2,5 +2,4 @@ theme: jekyll-theme-minimal
 title:  Steven Popkin's tech site
 description: A site with some random tech stuff on it.
 show_portrait: true
-image_dir: "images"
-portrait_name: "portrait-reduced.jpg"
+portrait_path: "images/portrait-reduced.jpg"
