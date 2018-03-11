@@ -16,13 +16,17 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <a href="{{ site.github.url }}"> <h1>{{ page.title | site.title | default: site.github.repository_name }}</h1> </a>
 
-	{% if site.show_portrait %}
+	{% if page.show_portrait %}
 	  <img src="{{ site.portrait_path }}" alt="portrait.jpg">
 	{% endif %}
-        
-	<p>{{ site.description | default: site.github.project_tagline }}</p>
+       
+	{% if page.description %}
+	  <p>{{ page.description | default: site.github.project_tagline }}</p>
+	{% else %}	
+	  <p>{{ site.description | default: site.github.project_tagline }}</p>
+	{% endif %} 
 
 
         {% if site.github.is_project_page %}
