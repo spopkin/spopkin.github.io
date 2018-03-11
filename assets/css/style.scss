@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+.nav {
+  display: block;
+  border-style: none;
+}
+
+.nav li {
+  display: block;
+  border-style: none;
+}
