@@ -1,3 +1,7 @@
+---
+page_nav_desc: "Home"
+---
+
 # Welcome
 
 ## About Myself and this Site
