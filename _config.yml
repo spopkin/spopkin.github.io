@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
-description: Steven Popkin's Tech Site
-navbar-links:
-  About Me: "aboutme"
-  Home: "index"
-  Projects: "projects"
-  Contact Information: "contact"
-
-avatar: "images/portrait-reduced.jpg"
+title:  Steven Popkin's tech site
+description: A site with some random tech stuff on it.
+show_portrait: true
+image_dir: "images"
+portrait_name: "portrait-reduced.jpg"
