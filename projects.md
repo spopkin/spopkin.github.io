@@ -10,7 +10,7 @@ Most of my personal projects are available on my <a class="InLineLink" href="htt
 
 ## Personal Projects
 
-### <a href="apostrophe-extension.html">Apostrophe: Chrome Navigation Extension</a>
+### <a href="project-pages/apostrophe-extension.html">Apostrophe: Chrome Navigation Extension</a>
 
 ### <a href="this-website.html">This Website</a>
 
