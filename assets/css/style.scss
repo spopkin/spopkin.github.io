@@ -6,8 +6,8 @@
 
 .nav {
   display: table-row;
-  background-color: default;
   border-style: none;
+  background: #ffffff;
 }
 
 .nav li {
@@ -15,7 +15,6 @@
   border-style: none;
   text-align: left;
   height: 20px;
-  padding-top: default;
   width: 100%;
   padding-left: 6px;
   background-color: default;
@@ -25,8 +24,6 @@
 .nav li a {
   display: table-row;
   border-style: none;
-  height: default;
-  padding-top: default;
   height: 20px;
   text-align: left;
   background-color: default;
