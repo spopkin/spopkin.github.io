@@ -9,10 +9,23 @@
   border-style: none;
 }
 
-.nav li a {
+.nav li {
   display: block;
   border-style: none;
   text-align: left;
   height: default;
+  padding-top: default;
+  padding-left: 6px;
+  background-color: default;
+  margin: default;
+}
+
+.nav li a {
+  display: block;
+  border-style: none;
+  height: default;
+  padding-top: default;
+  text-align: left;
+  background-color: default;
   color: #267CB9;
 }
