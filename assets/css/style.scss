@@ -5,10 +5,14 @@
 
 .nav {
   display: block;
+  background-color: default;
   border-style: none;
 }
 
-.nav li {
+.nav li a {
   display: block;
   border-style: none;
+  text-align: left;
+  height: default;
+  color: #267CB9;
 }
