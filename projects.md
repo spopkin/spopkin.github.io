@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+description: "Personal projects"
 page_nav_desc: "My Projects"
 ---
 ## My Projects
