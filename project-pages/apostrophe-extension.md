@@ -1,3 +1,6 @@
+---
+is_a_project: true
+---
 ## Apostrophe Browser Extension
 
 <p>Apostrophe is a browser extension that I have developed for use with Google Chrome and the open-source Chromium that it is based on.  Apostrophe allows the user to search all of the links on a given page to see if it matches some given text, as well as to navigate in this means.</p>
@@ -46,7 +49,6 @@
 	<li>I used the "observer" development model, as this script needed to react to key presses.</li>
 </ul>
 
-<a href="projects.html">Return to projects page.</a>
 
 <br/>
 <br/>

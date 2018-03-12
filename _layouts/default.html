@@ -58,6 +58,10 @@
 
       {{ content }}
 
+      {% if page.is_a_project %}
+       <a href="https://spopkin.github.io/projects.html">Return to projects page.</a>
+      {% endif %}
+
       </section>
       <footer>
         {% if site.github.is_project_page %}
