@@ -10,7 +10,7 @@ Welcome to my site.  I am a recent graduate and aspiring software engineer who h
 
 To read about my projects, please visit my <a href="projects.html">projects</a> page.
 
-If you are a recruiter and are seeking to reach out to me about a position, please do feel free to reach out to me.  I am always interested in at least hearing about potential new positions.  My contact information can be found on my [contact information page](contact.html).
+If you are looking to reach out to me, my contact information can be found on my [contact information page](contact.html).
 
 
 <br/>
