@@ -10,12 +10,14 @@ Welcome to my site.  I am a recent graduate and aspiring software engineer who h
 
 To read about my projects, please visit my <a href="projects.html">projects</a> page.
 
-That said, I am currently job hunting, so if you are looking for a developer, please feel free to contact me.  You can get my contact information from my <a href="contact.html">contact information</a> page.
+If you are a recruiter and are seeking to reach out to me about a position, please do feel free to reach out to me.  I am always interested in at least hearing about potential new positions.  My contact information can be found on my [contact information page](contact.html).
 
 
 <br/>
 ## Project News
 <ul class="NewsList">
+	<p class="NewsListSubheader">March 2018:</p>
+	<li>Transitioned this website over to Jekyll so as to simplify the addition of pages later.</li>
 	<p class="NewsListSubheader">July 2017:</p>
 	<li>Published Apostrophe (my Chrome link-search navigation extension) to the Chrome web store</li>
 	<li>Polished Apostrophe a little bit more</li>

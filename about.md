@@ -8,14 +8,14 @@ portrait_path: "images/portrait-reduced.jpg"
 page_nav_desc: "About Me"
 
 ---
-<h2>About Me</h2>
+## About Me
 <p>I am a recent NC State computer science graduate with a broad variety of technical interests and topics to which I have been exposed.  Currently, object-oriented development using Java is what I am best at, though I also enjoy using Python, SQL, and other technologies.</p>
 
 <p>I also sometimes work on personal projects to sharpen my technical skills.  To learn more, please head over to my <a href="projects.html" class="InLineLink">projects</a> page.</p>
 
 
 <br/>
-<h2>Technologies</h2>
+## Technologies
 <p>The following are some of the technologies that I have worked with.</p>
 <ul class="TechList">
 	<li>Java</li>
@@ -29,18 +29,26 @@ page_nav_desc: "About Me"
 </ul>
 
 <br/>
-<h2>Education</h2>
+## Education
 <p><strong>BS Computer Science</strong> - Cum Laude</p>
 <p><em>NC State University</em> - May 2017</p>
 
 <br/>
-<h2>Work Experience</h2>
+## Work Experience
+** Technical Support Engineer Contractor - Dell EMC via Marchon Partners (August 2017 - Present) **
+- Troubleshot hardware and software issues on Avamar backup appliances
+- Utilized the logs to track down issues in the application software and the underlying Linux OS
+- Worked with coworkers to get advice and to collaborate on issues as needed
+- Resolved settings issues in XML configuration files.
+- Avamar, Linux, troubleshooting, XML
+
 <p><strong>Linux Intern</strong> - NC Administrative Office of the Courts (Mar 2017 - May 2017)</p>
 <ul class="RespList">
 	<li>Used Python to sort DNS records</li>
 	<li>Provisioned new Red Hat Enterprise Linux 7 virtual machines</li>
-	<li>Configured new BIND virtual machines servers</li>
+	<li>Configured virtual machines as BIND DNS servers</li>
 	<li>Shadowed the main Linux admin</li>
+	<li>Created and set up a new monitoring server running Cacti</li>
 	<li>Linux, BIND, Python, DNS</li>
 </ul>
 <p><strong>Software Engineer Intern</strong> - Interactive Intelligence (May 2016 - Aug 2016)</p>
