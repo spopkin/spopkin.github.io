@@ -5,13 +5,13 @@
 
 
 .nav {
-  display: block;
+  display: table-row;
   background-color: default;
   border-style: none;
 }
 
 .nav li {
-  display: block;
+  display: table-row;
   border-style: none;
   text-align: left;
   height: default;
@@ -22,7 +22,7 @@
 }
 
 .nav li a {
-  display: block;
+  display: table-row;
   border-style: none;
   height: default;
   padding-top: default;
