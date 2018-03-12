@@ -12,10 +12,6 @@ To read about my projects, please visit my <a href="projects.html">projects</a> 
 
 That said, I am currently job hunting, so if you are looking for a developer, please feel free to contact me.  You can get my contact information from my <a href="contact.html">contact information</a> page.
 
-<span style="color: #ee3333">
-2018-03-11
-Please note that this site is presently undergoing construction, as I have decided to switch over to Jekyll so that I can reuse the navigation bar code, rather than having to use JavaScript to display the html for it or having to copy it into every new page.
-</span>
 
 <br/>
 ## Project News
