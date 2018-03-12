@@ -35,7 +35,7 @@ page_nav_desc: "About Me"
 
 <br/>
 ## Work Experience
-** Technical Support Engineer Contractor - Dell EMC via Marchon Partners (August 2017 - Present) **
+**Technical Support Engineer Contractor - Dell EMC via Marchon Partners (August 2017 - Present)**
 - Troubleshot hardware and software issues on Avamar backup appliances
 - Utilized the logs to track down issues in the application software and the underlying Linux OS
 - Worked with coworkers to get advice and to collaborate on issues as needed
