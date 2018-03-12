@@ -12,8 +12,8 @@ Most of my personal projects are available on my <a class="InLineLink" href="htt
 
 ### <a href="project-pages/apostrophe-extension.html">Apostrophe: Chrome Navigation Extension</a>
 
-### <a href="this-website.html">This Website</a>
+### <a href="project-pages/this-website.html">This Website</a>
 
-### <a href="pdf-rulefinder.html">PDF RuleFinder</a>
+### <a href="project-pages/pdf-rulefinder.html">PDF RuleFinder</a>
 
-### <a href="betaversity-buildathon.html">Betaversity Buildathon Semifinalist</a>
+### <a href="project-pages/betaversity-buildathon.html">Betaversity Buildathon Semifinalist</a>
