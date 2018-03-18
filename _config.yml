@@ -3,3 +3,5 @@ title:  Steven Popkin's Tech Site
 description: A site with some random tech stuff on it.
 show_portrait: false
 portrait_path: "images/portrait-reduced.jpg"
+has_linkedin: true
+linkedin_url: "https://www.linkedin.com/in/steven-popkin-1a250478/"
