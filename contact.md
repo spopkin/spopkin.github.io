@@ -15,5 +15,7 @@ page_nav_desc: "Contact Me"
 </ul>
 
 ### Contact Form:
-<iframe src="https://services.cognitoforms.com/f/JcsBH_j4HkaEzFxP5o2jTg?id=1" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="399" width="100%"></iframe>
-<script src="https://services.cognitoforms.com/scripts/embed.js"></script>
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/JcsBH_j4HkaEzFxP5o2jTg"></script>
+<script>Cognito.load("forms", { id: "1" });</script>
+</div>
