@@ -1,18 +1,19 @@
 ---
 title:  "About Me"
-set_title: false
-set_title_to: "Steven Popkin's Tech Site | About Me"
+set_title: true
+set_title_to: ""
 description: "Recent Graduate | Aspiring Software Engineer"
 show_portrait: true
 portrait_path: "images/portrait-reduced.jpg"
 page_nav_desc: "About Me"
 
 ---
-## About Me
-<p>I am a recent NC State computer science graduate with a broad variety of technical interests and topics to which I have been exposed.  Currently, object-oriented development using Java is what I am best at, though I also enjoy using Python, SQL, and other technologies.</p>
+## About Myself and This Site
+I am a recent NC State computer science graduate with a broad variety of technical interests and topics to which I have been exposed.  Currently, object-oriented development using Java is what I am best at, though I also enjoy using Python, SQL, and other technologies.
 
-<p>I also sometimes work on personal projects to sharpen my technical skills.  To learn more, please head over to my <a href="projects.html" class="InLineLink">projects</a> page.</p>
+I also sometimes work on personal projects to sharpen my technical skills.  To learn more, please head over to my <a href="projects.html" class="InLineLink">projects</a> page.
 
+This site is essentially a portfolio site in which I can showcase some of my personal projects and occasionally throw in a self-reference guide or two.
 
 <br/>
 ## Technologies

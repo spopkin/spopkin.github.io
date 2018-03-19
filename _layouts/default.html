@@ -16,11 +16,13 @@
   <body>
     <div class="wrapper">
       <header>
-	{% if page.set_title %}
+          <a href="{{ site.github.url }}"> <h1>{{ page.page_nav_desc | default: site.github.repository_name }}</h1> </a>
+	<!--{% if page.set_title %}
           <a href="{{ site.github.url }}"> <h1>{{ page.set_title_to | default: site.github.repository_name }}</h1> </a>
 	{% else %}
           <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
 	{% endif %}
+	-->
 
 	{% if page.show_portrait %}
 	  <img src="{{ page.portrait_path }}" alt="portrait.jpg">
@@ -47,8 +49,9 @@
         {% endif %}
 
 	<p style="color: red">
-	2018-03-11
-	Please note that this site is presently undergoing construction, as I have decided to switch over to Jekyll so that I can reuse the navigation bar code, rather than having to use JavaScript to display the html for it or having to copy it into every new page.</p>
+	2018-03-18:
+	Please note that this site is presently undergoing construction, as I have decided to switch over to Jekyll. 
+	</p>
         
 	{% if site.show_downloads %}
           <ul>

@@ -13,10 +13,10 @@ To read about my projects, please visit my [projects](projects.html) page.
 If you are looking to reach out to me, my contact information can be found on my [contact information page](contact.html).
 
 
-
 ## Project News
 March 2018:
 - Transitioned this website over to Jekyll so as to simplify the addition of pages later.
+- Added a contact form to the contact page, so as to simplify contacting me.
 
 July 2017:
 - Published Apostrophe (my Chrome link-search navigation extension) to the Chrome web store
