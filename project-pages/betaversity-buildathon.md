@@ -1,3 +1,7 @@
+---
+is_a_project: true
+description: My results in a microcontroller hackathon 
+---
 ## Betaversity Buildathon
 <p></p>
 

@@ -1,3 +1,7 @@
+---
+is_a_project: true
+description: A multi-PDF search utility
+---
 ## PDF RuleFinder
 <p>The PDF RuleFinder is a simple Node.js-based utility that is used to find the page in a set of pdf files that best matches a set of keywords.  Essentially, it's used for searching D&D PDFs to try to find specific rules based on passed keywords</p>
 

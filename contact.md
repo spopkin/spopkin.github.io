@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 page_nav_desc: "Contact Me"
+description: Reach out to me via phone, email, or other means.
 ---
 ## My Contact Information
 

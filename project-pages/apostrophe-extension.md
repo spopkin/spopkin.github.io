@@ -1,5 +1,6 @@
 ---
 is_a_project: true
+description: A browser extension for keyboard navigation in Chrome
 ---
 ## Apostrophe Browser Extension
 
