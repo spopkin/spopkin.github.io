@@ -3,7 +3,7 @@ title: "Projects"
 description: "Personal projects"
 page_nav_desc: "My Projects"
 ---
-## My Projects
+## My Projects Index Page
 My projects can largely be divided into personal projects and assigned projects.  As this site is meant to showcase my personal projects, assigned projects are not displayed here.
 
 Most of my personal projects are available on my <a class="InLineLink" href="https://github.com/spopkin">GitHub</a> account.

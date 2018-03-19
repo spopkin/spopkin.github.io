@@ -17,22 +17,21 @@ This site is essentially a portfolio site in which I can showcase some of my per
 
 <br/>
 ## Technologies
-<p>The following are some of the technologies that I have worked with.</p>
-<ul class="TechList">
-	<li>Java</li>
-	<li>Html 5 / CSS 3</code></li>
-	<li>SQL</li>
-	<li>Python</li>
-	<li>JavaScript</li>
-	<li>Linux</li>
-	<li>C/C++</li>
-	<li>NodeJS</li>
-</ul>
+The following are some of the technologies that I have worked with.
+
+- Java
+- Html 5 / CSS 3
+- SQL
+- Python
+- JavaScript
+- Linux
+- C/C++
+- NodeJS
 
 <br/>
 ## Education
-<p><strong>BS Computer Science</strong> - Cum Laude</p>
-<p><em>NC State University</em> - May 2017</p>
+**BS Computer Science** - Cum Laude
+_NC State University_ - May 2017
 
 <br/>
 ## Work Experience
